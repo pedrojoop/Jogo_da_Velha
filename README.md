@@ -18,9 +18,10 @@ Este projeto consiste em uma implementação do clássico jogo da velha em Java,
 
 ```bash
 cd nome-do-repositorio
-javac Main.java
-java Main
+javac JogoDaVelhaGUI.class
+java JogoDaVelhaGUI
 ```
+
 ## Siga as instruções na interface gráfica para jogar ou interagir com as funcionalidades CRUD.
 
 Estrutura do Projeto
